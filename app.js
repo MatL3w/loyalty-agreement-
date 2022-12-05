@@ -15,8 +15,9 @@ let LoyaltyAgreement1_plnRest = 0;
 let timee = new Date().getTime();
 //***VARAIABLES <<<<*/
 
-//***CORE>>>> */
 
+
+//***CORE>>>> */
 setInterval(() => {
     const tDif1=LoyaltyAgreement1_endDate-LoyaltyAgreement1_startDate;
     const dif1 = LoyaltyAgreement1_endDate - time();
