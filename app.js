@@ -28,7 +28,6 @@ setInterval(() => {
     LoyaltyAgreement1_plnRest =`Ilość PLN do zwrotu: ${((dif1/tDif1)*LoyaltyAgreement1_plnAmount+((dif2/tDif2)*LoyaltyAgreement2_plnAmount))}`;
   console.log(LoyaltyAgreement1_plnRest);
 
-
 }, 4000);
 //***CORE<<<<*/
 
